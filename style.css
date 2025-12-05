@@ -131,6 +131,10 @@ div > .all-box .btn a{
     color: #fff;
     font-size: 12px;
 }
+div > .all-box .btn a:hover{
+    background-color: #3651b8;
+    transition: 0.3s;
+}
 .card:hover {
     transform: translateY(-4px);
     box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
